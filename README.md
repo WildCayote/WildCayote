@@ -22,7 +22,7 @@
 
 <p>
     <a align="left" href="https://github.com/WildCayote/WildCayote">
-        <img alt="WildCayote's github stats"  width="54%" src="https://github-readme-stats.vercel.app/api?username=WildCayote&show_icons=true&theme=transparent&include_all_commits=true&count_private=true">
+        <img alt="WildCayote's github stats"  width="54%" src="https://github-readme-stats.vercel.app/api?username=WildCayote&show_icons=true&theme=transparent&count_private=true&include_all_commits=true">
     </a>
     <a align="right" href="https://github.com/WildCayote/WildCayote">
         <img alt="WildCayote's github stats"  width="41.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildCayote&layout=compact&theme=transparent&hide=Jupyter%20Notebook,html">
