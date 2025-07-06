@@ -31,9 +31,9 @@
 
 <h3 align="center">Let's Connect!</h3>
 <div align="center">
-<a href="mailto:tinsaeshemalise@gmail.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="Gmail" height="30" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/tinsae-shemalise/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nathnael" height="27" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/GDFan"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Tinsae" height="27" /></a>
+<a href="mailto:tinsaeshemalise@gmail.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="Gmail" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tinsae-shemalise/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nathnael" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/GDFan"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Tinsae" height="30" width="30" /></a>
 </a>&nbsp;&nbsp;&nbsp;
 </div>
 
