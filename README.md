@@ -20,15 +20,6 @@
   <li>📫 Let’s connect — check out my repos and drop me a line!</li>
 </ul>
 
-<p>
-    <a align="left" href="https://github.com/WildCayote/WildCayote">
-        <img alt="WildCayote's github stats"  width="54%" src="https://github-readme-stats.vercel.app/api?username=WildCayote&show_icons=true&theme=transparent&count_private=true&include_all_commits=true">
-    </a>
-    <a align="right" href="https://github.com/WildCayote/WildCayote">
-        <img alt="WildCayote's github stats"  width="41.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildCayote&layout=compact&theme=transparent&hide=Jupyter%20Notebook,html">
-    </a>
-</p>
-
 <h3 align="center">Let's Connect!</h3>
 <div align="center">
 <a href="mailto:tinsaeshemalise@gmail.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="Gmail" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
